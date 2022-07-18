@@ -43,19 +43,13 @@ node_modules
 # testing
 coverage
 
-# production
-build
 
 # misc
 .DS_Store
 .env
 npm-debug.log
 /lib
-/es
 
-build
-.next
-example/out
 
 # lockfiles
 yarn.lock
