@@ -67,7 +67,7 @@
   // Playback technology elements expand to the width/height of the containing div
   // <video> or <object>
   .video-react-video {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -104,4 +104,3 @@ body.video-react-full-window {
     right: 0;
   }
 }
-
